@@ -1,0 +1,28 @@
+#fotoTam{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+*{
+    background-image: url('desktop.png');
+}
+
+    input{
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+        border-radius: 10px;
+        width: 20%;
+        height: 30px;
+        color: white;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+   
+
+    h1, h3{
+        text-align: center;
+        color: white;
+    }
